@@ -1,4 +1,4 @@
 # gauri-tripathii
 This is my first Git Repository
 <br>
-Author-gauri tripathi
+Author-gauri mycode
